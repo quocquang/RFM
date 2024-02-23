@@ -90,7 +90,7 @@ Doanh thu và tần suất mua hàng theo tháng:
        - Doanh thu: $372,802.66
        - Tần suất: 110
    
-    ---
+  ---
     
 *  Doanh thu và tần suất mua hàng của các dòng sản phẩm theo tháng 11.
 - Classic Cars:
