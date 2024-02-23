@@ -3,7 +3,7 @@
 ---
 
 # :briefcase: Business Case and Requirement
- #.Phân Loại Khách Hàng Sử Dụng RFM Analysis:
+ # Phân Loại Khách Hàng Sử Dụng RFM Analysis:
 - Tính điểm cho từng khách hàng dựa trên ba tiêu chí chính: Recency, Frequency, và Monetary.
 - Điểm số này giúp doanh nghiệp xác định được mức độ quan trọng của từng khách hàng và phân đoạn khách hàng thành các nhóm có đặc điểm tương tự.
 - Tính điểm RFM: Mỗi khách hàng được chấm điểm từ 1 đến 5 cho từng tiêu chí (1 là thấp, 5 là cao).
