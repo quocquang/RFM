@@ -115,7 +115,7 @@ Doanh thu và tần suất mua hàng theo tháng:
   - Doanh thu: $22,271.23
   - Tần suất: 6
   
----
+  ---
 
 * 5 khách hàng có giá trị tiền mặt cao nhất
   - Mini Gifts Distributors Ltd.
@@ -138,7 +138,8 @@ Doanh thu và tần suất mua hàng theo tháng:
      - Giá trị tiền mặt: $180,124.90
      - Tần suất mua hàng: 53
      - RFM Cell String: 444
-## Danh sách khách hàng
+       
+---
 
 ## Danh sách khách hàng
 
