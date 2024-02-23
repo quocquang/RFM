@@ -89,6 +89,7 @@ Doanh thu và tần suất mua hàng theo tháng:
    - Tháng 12:
        - Doanh thu: $372,802.66
        - Tần suất: 110
+   
     ---
     
 *  Doanh thu và tần suất mua hàng của các dòng sản phẩm theo tháng 11.
@@ -117,25 +118,25 @@ Doanh thu và tần suất mua hàng theo tháng:
 ---
 * 5 khách hàng có giá trị tiền mặt cao nhất
   - Mini Gifts Distributors Ltd.
-   - Giá trị tiền mặt: $654,858.06
-   - Tần suất mua hàng: 180
-   - RFM Cell String: 444
+     - Giá trị tiền mặt: $654,858.06
+     - Tần suất mua hàng: 180
+     - RFM Cell String: 444
   - Euro Shopping Channel
-   - Giá trị tiền mặt: $912,294.11
-   - Tần suất mua hàng: 259
-   - RFM Cell String: 444
+     - Giá trị tiền mặt: $912,294.11
+     - Tần suất mua hàng: 259
+     - RFM Cell String: 444
   - Australian Collectors, Co.
-   - Giá trị tiền mặt: $200,995.41
-   - Tần suất mua hàng: 55
-   - RFM Cell String: 344
+     - Giá trị tiền mặt: $200,995.41
+     - Tần suất mua hàng: 55
+     - RFM Cell String: 344
   - Muscle Machine Inc
-   - Giá trị tiền mặt: $197,736.94
-   - Tần suất mua hàng: 48
-   - RFM Cell String: 344
+     - Giá trị tiền mặt: $197,736.94
+     - Tần suất mua hàng: 48
+     - RFM Cell String: 344
   - La Rochelle Gifts
-   - Giá trị tiền mặt: $180,124.90
-   - Tần suất mua hàng: 53
-   - RFM Cell String: 444
+     - Giá trị tiền mặt: $180,124.90
+     - Tần suất mua hàng: 53
+     - RFM Cell String: 444
 ## Danh sách khách hàng
 
 CUSTOMERNAME,rfm_recency,rfm_frequency,rfm_monetary,rfm_segment
