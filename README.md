@@ -238,7 +238,57 @@ Doanh thu và tần suất mua hàng theo tháng:
 | Mini Gifts Distributors Ltd.       | 4           | 4             | 4            | loyal                 |
 | Euro Shopping Channel              | 4           | 4             | 4            | loyal                 |
 
+---
 
+*  Danh sách các cặp sản phẩm được bán cùng nhau
+  - S18_1129 và S18_1984
+  - S18_1129 và S18_3232
+  - S18_1984 và S18_3232
+  - S10_2016 và S18_2625
+  - S10_2016 và S24_2000
+  - S18_2625 và S24_2000
+
+---
+
+* Doanh thu theo thành phố
+
+| Thành phố   | Doanh thu  |
+|-------------|------------|
+| Manchester  | 157807.81  |
+| London      | 124823.54  |
+| Liverpool   | 118008.27  |
+| Cowes       | 78240.84   |
+
+---
+
+ * Sản phẩm tốt nhất ở Hoa Kỳ 
+
+| Quốc gia | Năm | Dòng sản phẩm    | Doanh thu    |
+|----------|-----|------------------|--------------|
+| USA      | 2004| Classic Cars     | 560448.26    |
+| USA      | 2003| Classic Cars     | 558544.09    |
+| USA      | 2004| Vintage Cars     | 301982.35    |
+| USA      | 2004| Motorcycles      | 287243.09    |
+| USA      | 2003| Vintage Cars     | 266141.82    |
+| USA      | 2004| Trucks and Buses | 230219.17    |
+| USA      | 2005| Classic Cars     | 225645.87    |
+| USA      | 2005| Vintage Cars     | 189631.73    |
+| USA      | 2003| Motorcycles      | 178108.95    |
+| USA      | 2004| Planes           | 177431.76    |
+| USA      | 2003| Trucks and Buses | 125794.86    |
+| USA      | 2004| Ships            | 102595.00    |
+| USA      | 2003| Planes           | 90016.44     |
+| USA      | 2005| Planes           | 60984.69     |
+| USA      | 2003| Ships            | 58237.59     |
+| USA      | 2005| Motorcycles      | 55019.66     |
+| USA      | 2005| Ships            | 48855.55     |
+| USA      | 2005| Trucks and Buses | 41828.39     |
+| USA      | 2003| Trains           | 28304.13     |
+| USA      | 2004| Trains           | 25551.06     |
+| USA      | 2005| Trains           | 15398.37     |
+
+
+---
 
 
   # 🧾 What can you practice with this case study?
